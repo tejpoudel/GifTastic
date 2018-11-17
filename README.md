@@ -20,6 +20,9 @@ This is Gif Tastic project. It's intended as a challenge to put together a websi
 
 ### img - This folder included images of word mapn image.
 
+## Link
+https://tejpoudel.github.io/giftastic.github.com/
+
 ## Installation
 Clone or download this zip file open it and simply open the index.html file and enjoy!
 
